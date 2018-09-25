@@ -1,4 +1,4 @@
-# Plugin-React-UserChat
+# Personal Notes plugin
 
 This plugin is used to support Personal Notes around a PulseTile ReactJS based application.
 
@@ -7,7 +7,7 @@ This plugin is used to support Personal Notes around a PulseTile ReactJS based a
 This plugin installed automatically by Yeoman-generator: https://www.npmjs.com/package/generator-helm-phr
 
 Generator does the following:
-1) Clone UserChat from GitHub repository;
+1) Clone PersonalNotes from GitHub repository;
 2) Overwrite directory **_src/components/containers/PersonalNotes/_** in the Core-part
 
 # Working principle
